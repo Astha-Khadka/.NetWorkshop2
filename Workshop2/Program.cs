@@ -33,6 +33,10 @@ namespace Workshop2
             DateTimes datetimes = new DateTimes();
             datetimes.displayDatetime();
 
+
+            //For qn 6
+            Collection collection = new Collection();
+            collection.display();
         }
 
     }
